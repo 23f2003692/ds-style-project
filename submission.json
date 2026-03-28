@@ -1,6 +1,8 @@
 {
-  "prompt": "A realistic photograph of a social gathering where one person stands surrounded by many people, while each of those surrounding individuals appears to be connected to even larger unseen crowds beyond the frame. The central person looks isolated despite being connected, while others seem more socially connected. Natural lighting, realistic human expressions, no text, no labels, no diagrams, cinematic composition, highly detailed",
-  "model": "DALL·E 3",
-  "paradox": "Friendship Paradox",
-  "visual_logic": "One person is connected to many, but those connections each have more connections, making the average friend appear more connected than oneself"
+  "prompt": "your prompt here",
+  "model": "DALL-E 3",
+  "concept": "gradient descent",
+  "tradition_name": "Japanese Edo-period woodblock prints / ukiyo-e",
+  "tradition_period": "1603–1868",
+  "tradition_approach": "Flat unmodulated color areas, bold outlines, diagonal compositions, muted indigo and ochre palette, visible woodgrain texture, stark figure-ground contrast."
 }
